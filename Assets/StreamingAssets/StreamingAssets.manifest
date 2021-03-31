@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4247944232
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: attack_ab
+      Dependencies: {}
